@@ -1,6 +1,6 @@
 # Lecture 04: Statistical Modeling
 
-Course notes for ECON/NUC_ENG-5360, covering statistical modeling with linear and logistic regression.
+Course notes for ECON/NUC_ENG-5360, covering explorative data analysis (EDA), statistical modeling with linear and logistic regression.
 
 ## Contents
 
